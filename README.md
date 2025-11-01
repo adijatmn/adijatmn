@@ -2,9 +2,9 @@
 
 Welcome to my GitHub space. I hope you get to know a little about me through my work here. 
 
-I'm a Data Analyst with a passion for turning raw data into clear, actionable insights. I specialize in Power BI, Excel, SQL, and Python, and I love creating dashboards that don’t just display numbers, but tell meaningful stories.
+👩🏽‍💻 I'm a Data Analyst sharing my journey and learnings in tech. I have a passion for turning raw data into clear, actionable insights. I specialize in Power BI, Excel, SQL, and Python, and I love creating dashboards that don’t just display numbers, but tell meaningful stories.
 
-I believe every dataset holds a story — a reflection of decisions, behaviors, and hidden questions. My role is to uncover those stories with clarity, empathy, and insight, turning data into meaningful understanding.
+I believe every dataset holds a story — a reflection of decisions, behaviors, and hidden questions and my job is to uncover those stories with clarity, empathy, and insight, turning data into meaningful understanding.
 
 ### 💡 What I Do  
 • Data Analysis & Insights  
@@ -12,5 +12,5 @@ I believe every dataset holds a story — a reflection of decisions, behaviors, 
 • Data Visualization & reporting   
 • Business intelligence analysis   
 
+🌨️Currently learning more about Data and Business Analytics   
 Thanks for stopping by, I’m open to learning, collaboration, growth, and exciting data opportunities ✨
-
